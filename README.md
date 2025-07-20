@@ -1,3 +1,7 @@
+# Universal Metadata Reader
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1396563817235742820/1396563830754119690/image.png?ex=687e8aec&is=687d396c&hm=0a10ade649df0a440feb47e0f11ceef04548108e2f3ab63b54f1a09e31dbe13b&" alt="File Metadata Reader" width="800"/>
+</p>
 The application handles a wide variety of file types including:
 
 Images (JPEG, PNG, GIF, TIFF, BMP)
@@ -23,4 +27,4 @@ Progress indicators
 Export capabilities (JSON, CSV, XML)
 Animated visual effects
 
-Can extract basic metadata from the files CANNOT open files like .zip does
+Can extract basic metadata from the files <b> CANNOT </b> open files like .zip does
